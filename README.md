@@ -1,0 +1,2 @@
+# smtg
+Ruby application
